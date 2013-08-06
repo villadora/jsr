@@ -1,0 +1,32 @@
+{
+    "name":"jss",
+    "title": "jss",
+    "author": {
+        "Name": "Villa Gao",
+        "email": "jky239@gmail.com",
+        "url": "http://villadora-blog.herokuapp.com/"
+    },
+    "version": "0.0.0",
+    "main": "lib/index.js",
+    "dependencies": {
+        "commander": "~1.1.1",
+        "esprima":"~1.0.3",
+        "q":"~0.9.4",
+        "log4js":"~0.6.6"
+    },
+    "devDependencies":{
+        "mocha": "",
+        "benchmark":"",
+        "grunt": "~0.4.1",
+        "grunt-cli": "~0.1.7",
+        "grunt-contrib-jshint": "~0.4.1",
+        "grunt-contrib-copy": "~0.4.1",
+        "grunt-contrib-clean": "~0.4.1",
+        "grunt-mocha-test": "~0.2.1",
+        "grunt-shell": "~0.2.2"
+    },
+    "readmeFilename":"README.md",
+    "engines": {
+        "node":">=0.8"
+    }
+}
