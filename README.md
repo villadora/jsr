@@ -1,3 +1,6 @@
-JSSc JavaScript tranSlate Compiler
-============================
+# JavaScript Reformat -- A Compilation Framework for JavaScript
+
+
+
+
 
